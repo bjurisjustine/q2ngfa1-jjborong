@@ -1,0 +1,16 @@
+*{
+    margin:0;
+
+}
+
+section{
+    text-align:center;
+    justify-content: space-between;
+}
+
+video{
+    height:300px;
+    width: 10vw;
+    border: 1px solid white;
+    
+}
